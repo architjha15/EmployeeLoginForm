@@ -1,5 +1,6 @@
 # EmployeeLoginForm
-This is normal employee login form that is connected with backend. The employee can login using employee ID and password. The password in the backend will be stored in the hash form.
+This is normal employee login form that is connected with backend. The employee can store its employee ID and password in the backend. The password will get stored in hash form with the help of salt and hash function. If the non-registered user enters the data the new entry will be created and data will get store.
+
 1. Frontend
 
 ![image](https://github.com/user-attachments/assets/7b9fe09b-af05-4cdb-8248-646561e410c0)
